@@ -1,0 +1,1 @@
+ini merupakan file awal yang nantinya harus dibaca oleh tiap-tiap peserta
